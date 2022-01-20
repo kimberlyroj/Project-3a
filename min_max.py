@@ -1,3 +1,7 @@
+# Author: Kimberly Rojas
+# GitHub username: kimberlyroj
+# Date: 1/19/2021
+# Description: A program that asks the user how many integers they would like to enter. Once that integer is input it will list the min and max
 Num=int(input("How many integers would you like to enter?"))
 print("Please enter",Num, "integers.")
 min=int(input())
